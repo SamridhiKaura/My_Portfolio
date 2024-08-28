@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "TECH EDUCATOR",
+    "organisation": "CODEYOUNG",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Working as Mentor",
+      "Teaching Web Development, Python, and Machine Learning"
+    ],
+    "imageSrc": "company/codeyoungwb.png"
+  },
+  {
+    "id": 2,
+    "role": "QUALITY ASSURANCE SPECIALIST",
+    "organisation": "CODEYOUNG",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Working on planning and testing process",
+      "Working on functions to meet specific requirements"
+    ],
+    "imageSrc":"company/codeyoungwb.png"
+  },
+  {
+    "id": 3,
+    "role": "FULL STACK WEB DEVELOPMENT - INTERNSHIP",
+    "organisation": "CGC",
+    "startDate": "Jun, 2023",
+    "endDate": "Sep, 2023",
+    "location": "Chandigarh, India",
+    "experiences": [
+      "Worked on Front-End and React",
+      "Helped to create UI for projects"
+    ],
+    "imageSrc":"company/cgcwb.png"
+  }
+]
